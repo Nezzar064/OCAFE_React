@@ -1,0 +1,1 @@
+TODO: Make sure you use cookies instead of local storage when you feel like implementing it.
