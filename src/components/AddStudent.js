@@ -46,7 +46,7 @@ const AddStudent = () => {
         setStudent({...student, [name]: value});
     };
 
-    //Get tutorial local state, send POST request, dispatchs action w. createStudent action creater with useDispatch.
+    //Get student local state, send POST request, dispatchs action w. createStudent action creater with useDispatch.
     //Returns a reference to dispatch func from Redux store
 
     const saveStudent = () => {
